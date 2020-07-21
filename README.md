@@ -10,7 +10,7 @@
   2. GITHUB
   3. JENKINS
   
-  * GIT -  Git is an open-source tool developers install locally to manage source code. For more info refer to https://en.wikipedia.org/wiki/Git
+  * GIT -  <a href=" https://en.wikipedia.org/wiki/Git">GIT</a> is an open-source tool developers install locally to manage source code. 
   * GITHUB - GitHub is an online service to which developers who use Git can connect and upload or download resources. For more info refer to https://en.wikipedia.org/wiki/GitHub
   * JENKINS - Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for       users to obtain a fresh build. For more info connect to https://en.wikipedia.org/wiki/Jenkins_(software)
   
