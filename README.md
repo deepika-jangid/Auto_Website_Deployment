@@ -16,3 +16,5 @@
   
   Technology which I used here for continuous deployment is  <b>DOCKER Containerization</b> and OS I used here is  <b>RHEL8</b>  
   
+# Pre-Requisites for this Project 
+  Although this project is very easy to build but all you need is a basic understanding of the concepts of git,github,jenkins,docker and rhel8 and also how to configure and setup   all these in your system. If you know that, then follow the methodology given below to make it happen on your own.  
