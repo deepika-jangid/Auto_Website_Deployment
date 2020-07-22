@@ -3,7 +3,7 @@
 
 ---> Automation is the need of today's generation and here I came up with the automation within integration and deployment of our projects on the server-side so that whenever          Developer finishes writting the code or change something into the code, within one click, the changes will be updated on the server and client can see the changes on their        end without any breakdown in the site or anything else like that. 
 
-# Requirements
+
 # Tools & Technologies Used
   Continuous Integration Tools used to accomplish this automation are as follows:-
   1. GIT
