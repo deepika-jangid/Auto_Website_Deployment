@@ -46,7 +46,7 @@
   <br>    sudo docker run -dit -p 8081:80 -v /developer:/usr/local/apache2/htdocs/ --name webdev httpd
   <br>fi 
   
-  <br>Above code of the execute shell will first copy all the data that jenkins downloaded from GITHUB repo. of Sub-Developer to the directory of Developer that we created          earlier in Rhel8. After copying data, it will launch a container(give any name say'webdev') through docker using httpd image so to deploy Developer's website on Dev-Docker      environment. 
+  <br>Above code of the execute shell will first copy all the data that jenkins downloaded from GITHUB repo. of Sub-Developer to the directory of Developer that we created          earlier in Rhel8. After copying data, it will launch a container(give any name say 'webdev') through docker using httpd image so to deploy Developer's website on Dev-Docker      environment. 
   
   Write the following code in the execute shell of Job2-
   <br>sudo cp -vrf * /master
