@@ -1,7 +1,7 @@
 # Problem Statement
----> As today's the world is growing faster and so the technologies, so doing anything manual is not preferable nowadays because manual doing is slower,less efficient and even          more time consuming.
+---> As today's the world is growing faster and so the technologies, so doing anything manual is not preferable nowadays because manual doing is slower,less efficient <br>and even more time consuming.
 
----> Automation is the need of today's generation and here I came up with the automation within integration and deployment of our projects on the server-side so that whenever          Developer finishes writting the code or change something into the code, within one click, the changes will be updated on the server and client can see the changes on their        end without any breakdown in the site or anything else like that. 
+---> Automation is the need of today's generation and here I came up with the automation within integration and deployment of our projects on the server-side so that <br>whenever Developer finishes writting the code or change something into the code, within one click, the changes will be updated on the server and client can see <br>the changes on their end without any breakdown in the site or anything else like that. 
 
 
 # Tools & Technologies Used
