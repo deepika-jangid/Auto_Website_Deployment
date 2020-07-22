@@ -40,7 +40,7 @@
   Here you can see that Developer finishes writting the code for their website and when he commit the code in GIT, automatically the code will push to the GITHUB through post-     commit actions and also it will triggers the Job1 i.e. Developer Job in Jenkins.
   
   <br>In the Developer Job i.e. Job1, you have to write the following code in the execute shell-
- <code><br>sudo cp -vrf * /developer
+ <br><code>sudo cp -vrf * /developer
   <br>if sudo docker ps | grep webdev
   <br>then 
   <br>    echo "Already Running"
@@ -51,7 +51,7 @@
   <br>Above code of the execute shell will first copy all the data that jenkins downloaded from GITHUB repo. of Sub-Developer to the directory of Developer that we created          earlier in Rhel8. After copying data, it will launch a container(give any name say 'webdev') through docker using httpd image so to deploy Developer's website on Dev-Docker      environment. 
   
   Write the following code in the execute shell of Job2-
- <code> <br>sudo cp -vrf * /master
+  <br><code>sudo cp -vrf * /master
   <br>if sudo docker ps | grep webmaster
   <br>then 
   <br>    echo "Already Running"
