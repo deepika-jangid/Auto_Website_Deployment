@@ -70,6 +70,8 @@
   
   ![](New%20folder/4.png)
   
+  This will successfully merge both the branches and the client can now see the updated website. See here:-
+  
   
   
   
