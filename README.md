@@ -6,11 +6,11 @@
 
 # Tools & Technologies Used
   Continuous Integration Tools used to accomplish this automation are as follows:-
-<br>1. GIT - <a href="https://en.wikipedia.org/wiki/Git">GIT</a> is an open-source tool developers install locally to manage source code. 
-<br>2. GITHUB - <a href="https://en.wikipedia.org/wiki/GitHub">Github</a> is an online service to which developers who use Git can connect and upload or download resources. 
-<br>3. JENKINS - <a href="https://en.wikipedia.org/wiki/Jenkins_(software)">Jenkins</a> is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
-<br>4. DOCKER CONTAINERIZATION - Containerization is a technology which I used here for Continuous Deployment. 
-<br>5. RHEL8 - OS used 
+<br>1. <b>GIT</b> - <a href="https://en.wikipedia.org/wiki/Git">GIT</a> is an open-source tool developers install locally to manage source code. 
+<br>2. <b>GITHUB</b> - <a href="https://en.wikipedia.org/wiki/GitHub">Github</a> is an online service to which developers who use Git can connect and upload or download resources. 
+<br>3. <b>JENKINS</b> - <a href="https://en.wikipedia.org/wiki/Jenkins_(software)">Jenkins</a> is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
+<br>4. <b>DOCKER CONTAINERIZATION</b> - Containerization is a technology which I used here for Continuous Deployment. 
+<br>5. <b>RHEL8</b> - OS used 
   
   ![](New%20folder/git_github_jenkins_docker_img.png)
       
@@ -75,9 +75,17 @@
   
   ![](New%20folder/5.png)
   
+  
+  Here are the results below of the successful completion of all the Jobs. You can also watch it in a Pipeline View by using Build Pipeline View Plugin of Jenkins which shows     all the jobs running in an interactive manner. But remember you can only use Build Pipeline View when you have to run the Jobs in Chaining like one after the another.
+  
+  ![](New%20folder/6.png)
+  
   <b>Note</b>- You can face issues while merging the branches in regard of merge conflicts. But Don't worry I will explain you what is Merge Conflicts and how you can                      resolve them.
   
-<b>Merge Conflicts</b> is nothing but the conflicts arises when at the same time, same line of code is manipulated by multiple Developers within the same repository. At that time, It becomes difficult for the GITHUB to decide which is the final change that Developer needs to keep. That's the reason it gives conflicts error messages. But you can resolve them by simply commiting the final code that you need to be there in your website and remove everything that you don't want to be part of your website. After commiting, GITHUB will get to know the finalise product(code) and then it will merge the branches for you easily. For more info about merge conflicts you can visit <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line">here</a>.
+<b>Merge Conflicts</b> is nothing but the conflicts arises when at the same time, same line of code is manipulated by multiple Developers within the same repository. At that        time, It becomes difficult for the GITHUB to decide which is the final change that Developer needs to keep. That's the reason it gives conflicts error messages. But you can      resolve them by simply commiting the final code that you need to be there in your website and remove everything that you don't want to be part of your website. After            commiting, GITHUB will get to know the finalise product(code) and then it will merge the branches for you easily. For more info about merge conflicts you can visit <a     href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line">here</a>.
+
+
+  I hope you understood the project but in case you have any queries you can connect with me on my <a href="www.linkedin.com/in/deepika-jangid-01b5391a9">LinkedIn Handle</a>. 
  
   
   
