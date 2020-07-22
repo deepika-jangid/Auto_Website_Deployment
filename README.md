@@ -6,6 +6,7 @@
 
 # Tools & Technologies Used
   Continuous Integration Tools used to accomplish this automation are as follows:-
+  
 <br>1. GIT -     <a href="https://en.wikipedia.org/wiki/Git">GIT</a> is an open-source tool developers install locally to manage source code. 
 <br>2. GITHUB -  <a href="https://en.wikipedia.org/wiki/GitHub">Github</a> is an online service to which developers who use Git can connect and upload or download resources. 
 <br>3. JENKINS - <a href="https://en.wikipedia.org/wiki/Jenkins_(software)">Jenkins</a> is used to build and test your software projects continuously making it easier for                        developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
