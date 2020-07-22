@@ -32,9 +32,11 @@
 
 # Step-by-Step Working Procedure
   ![](New%20folder/1.png)
+  
   First of all, Create a Job in Jenkins which will create 2 directories in Rhel8, one for storing the data of Sub-Developer i.e. Developer Branch and another for storing the       data of Main Developer i.e. Master Branch.
   
   ![](New%20folder/2.png)
+  
   Here you can see that Developer finishes writting the code for their website and when he commit the code in GIT, automatically the code will push to the GITHUB through post-     commit actions and also it will triggers the Job1 i.e. Developer Job in Jenkins.
   
   <br>In the Developer Job i.e. Job1, you have to write the following code in the execute shell-
@@ -57,7 +59,9 @@
   <br>   sudo docker run -dit -p 8082:80 -v /master:/usr/local/apache2/htdocs/ --name webmaster httpd
   <br>fi    
   
-  <br>This will launch the container for master branch and deploy the code of master on the master-docker environment.
+  <br>This will launch the container for master branch and deploy the code of master on the master-docker environment.Here you can see the website of master.
+  
+  ![](New%20folder/3.png)
   
   
   
