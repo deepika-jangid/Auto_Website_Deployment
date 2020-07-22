@@ -59,7 +59,7 @@
   <br>   sudo docker run -dit -p 8082:80 -v /master:/usr/local/apache2/htdocs/ --name webmaster httpd
   <br>fi    
   
-  <br>This will launch the container for master branch and deploy the code of master on the master-docker environment.Here you can see the website of master.
+  <br>This will launch the container for master branch and deploy the code of master on the master-docker environment. Here you can see the website of master.
   
   ![](New%20folder/3.png)
   
