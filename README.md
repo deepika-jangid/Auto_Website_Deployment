@@ -6,11 +6,11 @@
 
 # Tools & Technologies Used
   Continuous Integration Tools used to accomplish this automation are as follows:-
-    1. GIT -     <a href="https://en.wikipedia.org/wiki/Git">GIT</a> is an open-source tool developers install locally to manage source code. 
-    2. GITHUB -  <a href="https://en.wikipedia.org/wiki/GitHub">Github</a> is an online service to which developers who use Git can connect and upload or download resources. 
-    3. JENKINS - <a href="https://en.wikipedia.org/wiki/Jenkins_(software)">Jenkins</a> is used to build and test your software projects continuously making it easier for                        developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
-    4. DOCKER CONTAINERIZATION - Containerization is a technology which I used here for Continuous Deployment. 
-    5. RHEL8 - OS used 
+<br>1. GIT -     <a href="https://en.wikipedia.org/wiki/Git">GIT</a> is an open-source tool developers install locally to manage source code. 
+<br>2. GITHUB -  <a href="https://en.wikipedia.org/wiki/GitHub">Github</a> is an online service to which developers who use Git can connect and upload or download resources. 
+<br>3. JENKINS - <a href="https://en.wikipedia.org/wiki/Jenkins_(software)">Jenkins</a> is used to build and test your software projects continuously making it easier for                        developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
+<br>4. DOCKER CONTAINERIZATION - Containerization is a technology which I used here for Continuous Deployment. 
+<br>5. RHEL8 - OS used 
   
   ![](New%20folder/git_github_jenkins_docker_img.png)
       
@@ -29,7 +29,7 @@ We have to create 3 Jobs here on Jenkins:-
 <br><b>Note</b>- Both dev-docker and master-docker environment are on different docker containers.
 
 <br><b>JOB 3</b>
-<br>Manually the QA team will check (test) for the website running in dev-docker environment. If it is running fine then Jenkins will merge the dev branch to master branch and trigger <b>job 2</b>
+<br>Manually the QA team will check (test) for the website running in dev-docker environment. If it is running fine then Jenkins will merge the dev branch to master branch and trigger <b>JOB 2</b>
 
 
 
