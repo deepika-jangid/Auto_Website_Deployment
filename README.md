@@ -16,7 +16,7 @@
   
   Technology which I used here for continuous deployment is  <b>DOCKER Containerization</b> and OS I used here is  <b>RHEL8</b> 
   
-  
+  ![](New%20folder/github_jenkins_docker_img.png)
       
   
 # Pre-Requisites for this Project 
