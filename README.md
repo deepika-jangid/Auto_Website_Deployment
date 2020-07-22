@@ -65,6 +65,11 @@
   
   Once the Quality Assurance Team give the verification check for the website running in Dev-Docker env and will approve the changes that are made to this website to be merged     with the master's website then you have to go for Job3. Job3 will merge both the branches(dev and master) and trigger the master's Job i.e. Job2 for the changes to be           reflected in the main website and so the client can see the updations made in the website.
   
+  For merging, you have to follow this-
+  
+  
+  ![](New%20folder/4.png)
+  
   
   
   
