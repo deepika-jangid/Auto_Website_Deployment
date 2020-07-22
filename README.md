@@ -25,14 +25,14 @@
 
 # Working  
 We have to create 3 Jobs here on Jenkins:-
- # JOB #1
+ # JOB 1
 If Developer push to dev branch then Jenkins will fetch from dev and deploy on dev-docker environment.
 
- # JOB #2
+ # JOB 2
 If Developer push to master branch then Jenkins will fetch from master and deploy on master-docker environment.
 <b>Note</b>- Both dev-docker and master-docker environment are on different docker containers.
 
- # JOB #3
+ # JOB 3
 Manually the QA team will check (test) for the website running in dev-docker environment. If it is running fine then Jenkins will merge the dev branch to master branch and trigger <b>job 2</b>
 
   
