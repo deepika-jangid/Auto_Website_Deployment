@@ -75,7 +75,7 @@
   
   ![](New%20folder/5.png)
   
-  <b>Note</b>- You can face issues while merging the branches in regard of merge conflicts. <br>But Don't worry I will explain you what is Merge Conflicts and how you can                      resolve them.
+  <b>Note</b>- You can face issues while merging the branches in regard of merge conflicts. But Don't worry I will explain you what is Merge Conflicts and how you can                      resolve them.
   
 <b>Merge Conflicts</b> is nothing but the conflicts arises when at the same time, same line of code is manipulated by multiple Developers within the same repository. At that time, It becomes difficult for the GITHUB to decide which is the final change that Developer needs to keep. That's the reason it gives conflicts error messages. But you can resolve them by simply commiting the final code that you need to be there in your website and remove everything that you don't want to be part of your website. After commiting, GITHUB will get to know the finalise product(code) and then it will merge the branches for you easily. For more info about merge conflicts you can visit <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line">here</a>.
  
