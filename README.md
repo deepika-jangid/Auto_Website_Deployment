@@ -85,7 +85,7 @@
 <b>Merge Conflicts</b> is nothing but the conflicts arises when at the same time, same line of code is manipulated by multiple Developers within the same repository. At that        time, It becomes difficult for the GITHUB to decide which is the final change that Developer needs to keep. That's the reason it gives conflicts error messages. But you can      resolve them by simply commiting the final code that you need to be there in your website and remove everything that you don't want to be part of your website. After            commiting, GITHUB will get to know the finalise product(code) and then it will merge the branches for you easily. For more info about merge conflicts you can visit <a     href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line">here</a>.
 
 
-  I hope you understood the project but in case you have any queries you can connect with me on my <a href="www.linkedin.com/in/deepika-jangid-01b5391a9">LinkedIn Handle</a>. 
+  I hope you understood the project but in case you have any queries you can connect with me on my <a href="https://www.linkedin.com/in/deepika-jangid-01b5391a9/">LinkedIn Handle</a>. 
  
   
   
